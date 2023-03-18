@@ -1,5 +1,5 @@
 # MIMO_with_NOMA
-Here present the Outage Probability, Achievable Rate of each user and Sum Rate of user 2*2 MIMO and 3*3 MIMO
+Here present the Outage Probability, Achievable Rate of each user and Sum Rate of user 2\*2 MIMO and 3\*3 MIMO
 
 This result present the sum rate comprison
 ![image](https://user-images.githubusercontent.com/89696068/226114559-227c153a-64c5-4547-8f7a-752ec76dd8ff.png)
